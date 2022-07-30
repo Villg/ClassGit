@@ -1,0 +1,13 @@
+body { 
+    background-color: bisque;
+    text-align: center;
+}
+
+p {
+    font-size:  20px; 
+    color: rgb(2, 49, 102);
+}
+
+img{
+    border-radius: 20%;
+}
